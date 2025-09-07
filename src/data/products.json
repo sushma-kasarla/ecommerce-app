@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone",
+    "description": "Latest Apple iPhone with advanced features.",
+    "price": 999,
+    "image": "/images/Iphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "High performance laptop for work and gaming.",
+    "price": 1499,
+    "image": "/images/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Camera",
+    "description": "Digital camera with high-resolution imaging.",
+    "price": 799,
+    "image": "/images/camera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Headphone",
+    "description": "Noise-cancelling over-ear headphones.",
+    "price": 199,
+    "image": "/images/headphones.jpg"
+  },
+  {
+    "id": 5,
+    "name": "iWatch",
+    "description": "Smartwatch with fitness and health tracking.",
+    "price": 399,
+    "image": "/images/iwatch.jpg"
+  }
+]
